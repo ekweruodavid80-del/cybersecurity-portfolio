@@ -15,8 +15,15 @@ Current Learning Path
 * CompTIA Security+ (planned)
 
 Projects
+## Portfolio Projects
 
-Projects will be added as I progress through my cybersecurity journey.
+### Incident Response Project
+- NIST Cybersecurity Framework
+- Phishing Incident Analysis
+- Security Documentation
+
+Location:
+incident-response/
 
 Goals for 2026
 
